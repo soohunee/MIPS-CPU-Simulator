@@ -1,5 +1,5 @@
 # MIPS CPU Simulator
-##Usage
+## Usage
 input file : binary instructions
 
 ./mips-sim N reg
